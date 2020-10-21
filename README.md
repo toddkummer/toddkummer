@@ -13,8 +13,6 @@ All too often applications find themselves collapsing under the weight of too ma
 
 Todd has been building Ruby on Rails applications since 2013. Prior to that he helped clients implement and customize ERP software. In over 20 years of software development experience, Todd had built strong object oriented design skills. His prior life as an ERP developer also gives him strong SQL skills.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=toddkummer&show_icons=true&count_private=true)
-
 See [LinkedIn for his full experience](https://www.linkedin.com/in/rockridgesolutions).
 
 ### Open Source Sofware
