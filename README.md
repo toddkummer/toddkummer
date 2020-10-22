@@ -1,4 +1,4 @@
-## Software Architect, Ruby on Rails
+## Software Architect
 #### _Rockridge Solutions_
 
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg">
