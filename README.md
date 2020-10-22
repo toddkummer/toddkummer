@@ -20,7 +20,7 @@ Examples of his work can be found in the following open source projects. Each ge
 
 See [LinkedIn for his full experience](https://www.linkedin.com/in/rockridgesolutions).
 
-### Preferences / Experience
+### Preferences
 #### Development / Testing
 - RSpec
 - RuboCop
@@ -31,7 +31,6 @@ See [LinkedIn for his full experience](https://www.linkedin.com/in/rockridgesolu
 - Ruby
 - Rails
 - Stimulus JS
-- SQL
 
 #### DevOps
 - Docker
