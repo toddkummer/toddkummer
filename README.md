@@ -2,6 +2,7 @@
 #### _Rockridge Solutions_
 
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg">
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 The best fit for Todd is a project looking for an architect to help build out a new solution, or conversely, someone to help rescue a code base that has gone astray. _Who doesn't love a greenfield project?_ A clean slate means you can pick the best-fitting framework and implement best practices; however, poor choices here can have long-term consequences. 
 
@@ -18,9 +19,10 @@ Examples of his work can be found in the following open source projects. Each ge
 - [Next Page](https://github.com/RockSolt/next_page): Pagination for Rails Controllers
 - [Run Time Settings](https://github.com/RockSolt/run_time_settings): Persistent, run-time application settings 
 
-See [LinkedIn for his full experience](https://www.linkedin.com/in/rockridgesolutions).
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="rockridgesolutions"><a class="LI-simple-link" href='https://www.linkedin.com/in/rockridgesolutions?trk=profile-badge'>Todd Kummer</a></div>
 
-### Preferences
+### Specialties / Preferences
+
 #### Development / Testing
 - RSpec
 - RuboCop
