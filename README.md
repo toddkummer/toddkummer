@@ -14,7 +14,7 @@ All too often applications find themselves collapsing under the weight of too ma
 Todd has been designing and building Ruby on Rails applications since 2013. Prior to that he helped clients implement and customize ERP software. In over 20 years of software development experience, Todd had built strong object oriented design skills. His prior life as an ERP developer also gives him strong SQL skills.
 
 Examples of his work can be found in the following open source projects. Each gem provides solutions to common problems in Rails applications:
-- [Filterameter](https://github.com/RockSolt/): Declarative Filter Parameters for Rails Controllers
+- [Filterameter](https://github.com/RockSolt/): Declarative Filter Parameters for Rails
 - [Next Page](https://github.com/RockSolt/next_page): Pagination for Rails Controllers
 - [Run Time Settings](https://github.com/RockSolt/run_time_settings): Persistent, run-time application settings 
 
