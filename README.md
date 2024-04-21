@@ -23,6 +23,7 @@ See [LinkedIn for his full experience](https://www.linkedin.com/in/rockridgesolu
 ### Preferences
 #### Development / Testing
 - RSpec
+- minitest
 - RuboCop
 - Guard
 - SimpleCov
@@ -31,6 +32,7 @@ See [LinkedIn for his full experience](https://www.linkedin.com/in/rockridgesolu
 - Ruby
 - Rails
 - Stimulus JS
+- Turbo
 
 #### DevOps
 - Docker
