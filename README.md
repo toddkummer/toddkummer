@@ -1,6 +1,6 @@
 # Ruby on Rails Software Engineer
 
-The best fit for Todd is a project looking for a Ruby on Rails architect to help build out a new solution, or conversely, someone to help rescue a code base that has gone astray. His long history of product development—--for software companies, internal business applications, and consumer websites-—-helps him find the right balance between short-term and long-term requirements and put in place practices that will help guide the project for its full lifecycle.
+The best fit for Todd is a project looking for a Ruby on Rails architect to help build out a new solution, or conversely, someone to help rescue a code base that has gone astray. His long history of product development—for software companies, internal business applications, and consumer websites—helps him find the right balance between short-term and long-term requirements and put in place practices that will help guide the project for its full lifecycle.
 
 <img alt="Ruby on Rails Logo" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" width="300px;" align="right">
 
