@@ -16,7 +16,7 @@ Examples of his work can be found in the following open source projects. Each ge
 
 - [Filterameter](https://github.com/RockSolt/filterameter): Declarative Filter Parameters for Rails
 - [Next Page](https://github.com/RockSolt/next_page): Pagination for Rails Controllers
-- [Run Time Settings](https://github.com/RockSolt/run_time_settings): Persistent, run-time application settings
+- [Bulma Phlex](https://github.com/RockSolt/bulma-phlex) / [Bulma Phlex Rails](https://github.com/RockSolt/bulma-phlex-rails): Component library for Bulma CSS built in Phlex
 
 See [LinkedIn for his full experience](https://www.linkedin.com/in/rockridgesolutions).
 
